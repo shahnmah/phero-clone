@@ -3,10 +3,26 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #0F0826;
 }
-
+p{
+    color: #cbcbcb;
+}
+a{
+    text-decoration: none;
+}
+.button{
+    background: linear-gradient(1.09deg, #6e1fea -11.78%, #4289ff 198.26%);
+    box-shadow: 0px 4px 10px rgb(31 13 69 / 15%);
+    border-radius: 10px;
+    padding: 18px 25px;
+}
 
 .navbar-nav li a{
     text-transform: uppercase;
     color: #f1f1f1;
     font-size: 14px;
+}
+.banner-text h1 span{
+    background: -webkit-linear-gradient(45deg, #4289ff, #16ffbe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
