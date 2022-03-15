@@ -26,3 +26,9 @@ a{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.banner-slider{
+    height: 800px;
+}
+.banner-heading{
+    font-size: 52px;
+}
