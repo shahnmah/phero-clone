@@ -26,9 +26,27 @@ a{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.banner-slider{
-    height: 800px;
-}
 .banner-heading{
     font-size: 52px;
+}
+.banner{
+    position: relative;
+}
+.circle{
+    height: 232px;
+    width: 232px;
+    border-radius: 50%;
+    opacity: 0.5;
+    filter: blur(115px);
+    position: absolute;
+}
+.circle1{
+    background-color: #3366ff;
+    top: 70px;
+    left: -50px;
+}
+.circle2{
+    background-color: #ff5832;
+    bottom: -50px;
+    right: 0;
 }
