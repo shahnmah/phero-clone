@@ -50,3 +50,30 @@ a{
     bottom: -50px;
     right: 0;
 }
+
+.banner-shapes1{
+    position: relative;
+}
+.banner-bottom-shape1{
+    position: absolute;
+    bottom: 105px;
+    left: 45px;
+}
+.banner-top-shape1{
+    position: absolute;
+    right: 93px;
+    top: 55px
+}
+.banner-shapes2{
+    position: relative;
+}
+.banner-bottom-shape2{
+    position: absolute;
+    bottom: 21px;
+    left: -23px;
+}
+.banner-top-shape2{
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
